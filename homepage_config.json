@@ -1,0 +1,9 @@
+{
+  "title": "Discover Knowledge",
+  "header": "Welcome to Discover Knowledge",
+  "footer": "© 2024 Discover Knowledge",
+  "sections": [
+    {"title": "About", "content": "We help you uncover insights and learn new things."},
+    {"title": "Features", "content": "Configurable homepage generated from JSON."}
+  ]
+}
